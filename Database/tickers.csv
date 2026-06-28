@@ -1,0 +1,1001 @@
+ticker,name,sector,exchange
+ASS,Asset Inc,Financials,NYSE
+BL,Bldg Group,Real Estate,NYSE
+ENR,Enrg Capital,Energy,NASDAQ
+ALUM,Alum Corp,Materials,NYSE
+LIF,Life Partners,Healthcare,NASDAQ
+BANK,Bank Global,Financials,NYSE
+VALO.L,Val Capital,Consumer,LSE
+FUNDC.L,Fund Capital,Financials,LSE
+AUTOL.L,Auto Global,Consumer,LSE
+ENRGV.L,Enrg Group,Energy,LSE
+DISTH.L,Dist Inc,Consumer,LSE
+POL,Poly Partners,Materials,NYSE
+VOLT,Volt Global,Energy,NASDAQ
+HLT,Hlth Holdings,Healthcare,NASDAQ
+URBN,Urbn Group,Real Estate,NYSE
+DIGII.L,Digit Inc,Technology,LSE
+HYDRW.L,Hydr Partners,Energy,LSE
+WIN,Wind Holdings,Energy,NASDAQ
+CLI,Clin Global,Healthcare,NYSE
+IRONL.L,Iron Group,Materials,LSE
+BI,Bio Inc,Healthcare,NASDAQ
+NUR,Nuro Inc,Healthcare,NASDAQ
+COP,Cop Capital,Materials,NASDAQ
+CYBE,Cyber Holdings,Technology,NASDAQ
+MAC,Mach Holdings,Industrials,NYSE
+TWRD.L,Twr Holdings,Real Estate,LSE
+ESTL,Est Capital,Real Estate,NASDAQ
+PLCEK.L,Plce Solutions,Real Estate,LSE
+SYS,Sys Corp,Technology,NYSE
+PWRC.L,Pwr Solutions,Energy,LSE
+PRIMY.L,Prime Ltd,Financials,LSE
+MOBL,Mobl Group,Telecom,NASDAQ
+LUX,Lux Capital,Consumer,NASDAQ
+NGA,Ngas Global,Utilities,NYSE
+RE,Reit Corp,Real Estate,NYSE
+EN,Enrg Group,Energy,NYSE
+MA,Mart Global,Consumer,NASDAQ
+RLAY,Rlay Group,Telecom,NASDAQ
+FUN,Fund Solutions,Financials,NYSE
+NA,Nano Partners,Technology,NASDAQ
+TRU,Trust Systems,Financials,NYSE
+PARK,Park Inc,Real Estate,NYSE
+NUC,Nuc Systems,Energy,NYSE
+TEC,Tech Solutions,Technology,NYSE
+VAL,Val Solutions,Consumer,NASDAQ
+UR,Urbn Solutions,Real Estate,NYSE
+TWRF.L,Twr Corp,Real Estate,LSE
+EST,Est Group,Real Estate,NYSE
+ALO,Aloy Global,Materials,NYSE
+DIG,Digit Capital,Technology,NASDAQ
+CNSTV.L,Cnst Partners,Industrials,LSE
+PETR,Petr Solutions,Energy,NYSE
+FORGC.L,Forg Corp,Industrials,LSE
+IF,Ifra Group,Utilities,NASDAQ
+PRME,Prme Group,Real Estate,NYSE
+PART,Part Global,Industrials,NYSE
+RIN,Rinv Inc,Real Estate,NYSE
+ONCO,Onco Ltd,Healthcare,NYSE
+MAR,Mart Holdings,Consumer,NYSE
+PR,Prme Systems,Real Estate,NASDAQ
+WE,Wear Holdings,Consumer,NYSE
+CLINW.L,Clin Systems,Healthcare,LSE
+PROP,Prop Capital,Real Estate,NYSE
+MICRR.L,Micro Ltd,Technology,LSE
+GOLD,Gold Corp,Materials,NYSE
+CN,Cnst Capital,Industrials,NYSE
+FIBRE.L,Fibr Group,Materials,LSE
+NUROF.L,Nuro Systems,Healthcare,LSE
+LOGI,Logic Systems,Technology,NYSE
+AM,Amp Corp,Energy,NYSE
+PUB,Publ Group,Utilities,NYSE
+GAS,Gas Inc,Energy,NYSE
+HOME,Home Capital,Consumer,NASDAQ
+MFGI.L,Mfg Ltd,Industrials,LSE
+SGNLB.L,Sgnl Inc,Telecom,LSE
+CNC,Cnct Global,Telecom,NASDAQ
+PRM,Prme Corp,Real Estate,NYSE
+PWRV,Pwr Global,Energy,NASDAQ
+MFGX,Mfg Capital,Industrials,NASDAQ
+WEAR,Wear Capital,Consumer,NASDAQ
+CHEM,Chem Ltd,Healthcare,NYSE
+TNET,Tnet Holdings,Telecom,NASDAQ
+TRAD,Trad Partners,Consumer,NYSE
+CIV,Civ Ltd,Utilities,NASDAQ
+BETA,Beta Inc,Financials,NYSE
+SOFT,Soft Inc,Technology,NYSE
+MINE,Min Corp,Materials,NASDAQ
+TRUSF.L,Trust Capital,Financials,LSE
+SUP,Supp Solutions,Utilities,NASDAQ
+VOICQ.L,Voic Systems,Telecom,LSE
+ESTX,Est Solutions,Real Estate,NASDAQ
+DISTU.L,Dist Holdings,Consumer,LSE
+REI,Reit Holdings,Real Estate,NASDAQ
+SO,Solr Ltd,Energy,NYSE
+PET,Petr Systems,Energy,NASDAQ
+CO,Cop Systems,Materials,NYSE
+ALUMW.L,Alum Corp,Materials,LSE
+TEL,Tel Systems,Telecom,NASDAQ
+FIBR,Fibr Group,Materials,NASDAQ
+TRNS,Trns Solutions,Industrials,NASDAQ
+CLINA.L,Clin Systems,Healthcare,LSE
+TELC,Tel Ltd,Telecom,NASDAQ
+HEA,Heat Solutions,Utilities,NYSE
+FOR,Forg Systems,Industrials,NYSE
+DRNKA.L,Drnk Capital,Consumer,LSE
+SYSH.L,Sys Inc,Technology,LSE
+CLOUG.L,Cloud Corp,Technology,LSE
+WIRE,Wire Global,Telecom,NYSE
+OIL,Oil Global,Energy,NASDAQ
+CNCTD.L,Cnct Ltd,Telecom,LSE
+BRN,Brnd Systems,Consumer,NYSE
+MINC.L,Min Global,Materials,LSE
+AMPJ,Amp Global,Energy,NYSE
+ALPHZ.L,Alpha Corp,Financials,LSE
+SH,Ship Partners,Industrials,NASDAQ
+DEVP.L,Dev Inc,Technology,LSE
+POLYO.L,Poly Ltd,Materials,LSE
+ZIN,Zinc Capital,Materials,NYSE
+HEVYC.L,Hevy Holdings,Industrials,LSE
+PIPE,Pipe Systems,Utilities,NYSE
+HEV,Hevy Group,Industrials,NYSE
+ENGI.L,Eng Global,Industrials,LSE
+HO,Home Systems,Consumer,NASDAQ
+UTI,Util Systems,Utilities,NASDAQ
+HYD,Hydr Capital,Energy,NYSE
+LGS,Lgst Solutions,Industrials,NASDAQ
+MART,Mart Partners,Consumer,NYSE
+GBLW.L,Gbl Ltd,Financials,LSE
+NUCI,Nuc Capital,Energy,NYSE
+COM,Comm Partners,Telecom,NYSE
+CE,Cell Corp,Healthcare,NYSE
+INFR,Infra Solutions,Technology,NASDAQ
+ALPHJ.L,Alpha Solutions,Financials,LSE
+ELE,Elec Solutions,Utilities,NASDAQ
+FUNDP.L,Fund Inc,Financials,LSE
+TE,Tel Global,Telecom,NASDAQ
+CRB,Crbn Capital,Materials,NASDAQ
+COPJ,Cop Systems,Materials,NASDAQ
+BRND,Brnd Inc,Consumer,NASDAQ
+OI,Oil Group,Energy,NASDAQ
+GEN,Gene Global,Healthcare,NASDAQ
+NGAS,Ngas Solutions,Utilities,NYSE
+METR,Metr Global,Financials,NASDAQ
+GEOH,Geo Holdings,Energy,NASDAQ
+BRODD.L,Brod Solutions,Telecom,LSE
+STY,Styl Solutions,Consumer,NASDAQ
+COMM,Comm Global,Telecom,NYSE
+RLAYV.L,Rlay Holdings,Telecom,LSE
+RLA,Rlay Solutions,Telecom,NYSE
+AUTO,Auto Solutions,Consumer,NYSE
+WLTHN.L,Wlth Solutions,Financials,LSE
+FOO,Food Solutions,Consumer,NASDAQ
+WLTH,Wlth Systems,Financials,NYSE
+RLTYV.L,Rlty Capital,Real Estate,LSE
+UGR,Ugrd Capital,Utilities,NASDAQ
+THERW.L,Ther Solutions,Healthcare,LSE
+MED,Med Group,Healthcare,NYSE
+HEATQ.L,Heat Holdings,Utilities,LSE
+COPH.L,Cop Solutions,Materials,LSE
+PHRMY.L,Phrm Systems,Healthcare,LSE
+AEROI.L,Aero Corp,Industrials,LSE
+DISTS.L,Dist Global,Consumer,LSE
+PIPER.L,Pipe Solutions,Utilities,LSE
+TRN,Trns Partners,Industrials,NYSE
+GASS.L,Gas Systems,Energy,LSE
+WINDB.L,Wind Partners,Energy,LSE
+UGRDM.L,Ugrd Systems,Utilities,LSE
+ELEC,Elec Ltd,Utilities,NYSE
+ASSE,Asset Systems,Financials,NASDAQ
+FRSTV.L,Frst Capital,Financials,LSE
+POLYW.L,Poly Solutions,Materials,LSE
+VALC.L,Val Systems,Consumer,LSE
+INVD.L,Inv Solutions,Financials,LSE
+ON,Onco Corp,Healthcare,NASDAQ
+FUND,Fund Solutions,Financials,NASDAQ
+BRO,Brod Holdings,Telecom,NYSE
+SOFTJ.L,Soft Capital,Technology,LSE
+CHEMH.L,Chem Systems,Materials,LSE
+SGN,Sgnl Systems,Telecom,NASDAQ
+DIST,Dist Corp,Consumer,NYSE
+FIBRJ.L,Fibr Group,Telecom,LSE
+MOBLU.L,Mobl Group,Telecom,LSE
+BRNDS.L,Brnd Partners,Consumer,LSE
+PHRM,Phrm Ltd,Healthcare,NYSE
+GEO,Geo Holdings,Energy,NYSE
+CARD,Card Holdings,Healthcare,NYSE
+PARTC.L,Part Ltd,Industrials,LSE
+VOLTV.L,Volt Systems,Energy,LSE
+DV,Dvlp Capital,Real Estate,NASDAQ
+LI,Link Group,Telecom,NASDAQ
+SVC,Svc Global,Utilities,NYSE
+FUEL,Fuel Holdings,Energy,NASDAQ
+MAT,Mat Solutions,Materials,NYSE
+ME,Metr Solutions,Financials,NYSE
+LGST,Lgst Systems,Industrials,NASDAQ
+WIREN.L,Wire Inc,Telecom,LSE
+HEAT,Heat Group,Utilities,NASDAQ
+NG,Ngas Partners,Utilities,NASDAQ
+PARKL.L,Park Corp,Real Estate,LSE
+CH,Chem Group,Materials,NYSE
+TELZ.L,Tel Partners,Telecom,LSE
+AMPS.L,Amp Group,Energy,LSE
+PRIMG.L,Prime Global,Financials,LSE
+GASK.L,Gas Ltd,Energy,LSE
+ESTD,Est Corp,Real Estate,NYSE
+ST,Stee Systems,Industrials,NYSE
+PRO,Prop Partners,Real Estate,NYSE
+PLZ,Plza Global,Real Estate,NASDAQ
+LOGIV.L,Logic Capital,Technology,LSE
+WATR,Watr Inc,Utilities,NYSE
+CHE,Chem Partners,Healthcare,NYSE
+ZINCJ.L,Zinc Solutions,Materials,LSE
+REITN.L,Reit Solutions,Real Estate,LSE
+GRI,Grid Inc,Energy,NASDAQ
+SHI,Ship Ltd,Industrials,NASDAQ
+PU,Publ Inc,Utilities,NYSE
+AEROB.L,Aero Global,Industrials,LSE
+PAR,Park Systems,Real Estate,NASDAQ
+MICRJ.L,Micro Partners,Technology,LSE
+TRUS,Trust Group,Financials,NASDAQ
+STYL,Styl Partners,Consumer,NYSE
+TRUSM.L,Trust Systems,Financials,LSE
+WSTE,Wste Global,Utilities,NYSE
+BLD,Bldg Global,Real Estate,NYSE
+PHRMK.L,Phrm Inc,Healthcare,LSE
+DI,Digit Capital,Technology,NASDAQ
+GRID,Grid Inc,Energy,NASDAQ
+MATN.L,Mat Corp,Materials,LSE
+PUBLK.L,Publ Global,Utilities,LSE
+FIB,Fibr Inc,Materials,NASDAQ
+SLVR,Slvr Global,Materials,NYSE
+SVCL.L,Svc Inc,Utilities,LSE
+MINN.L,Min Global,Materials,LSE
+IRON,Iron Group,Materials,NASDAQ
+MFGQ.L,Mfg Inc,Industrials,LSE
+RL,Rlay Solutions,Telecom,NYSE
+UGRDS.L,Ugrd Solutions,Utilities,LSE
+SATK,Sat Partners,Telecom,NASDAQ
+THER,Ther Holdings,Healthcare,NASDAQ
+MDI,Mdia Solutions,Telecom,NYSE
+DE,Dev Inc,Technology,NYSE
+TNE,Tnet Corp,Telecom,NASDAQ
+IFRAU.L,Ifra Group,Utilities,LSE
+AERO,Aero Solutions,Industrials,NASDAQ
+FRSTK.L,Frst Inc,Financials,LSE
+RLTY,Rlty Solutions,Real Estate,NASDAQ
+NANOK.L,Nano Inc,Technology,LSE
+WAVEC.L,Wave Global,Telecom,LSE
+PHRMU.L,Phrm Systems,Healthcare,LSE
+BIO,Bio Partners,Healthcare,NASDAQ
+DAT,Data Solutions,Technology,NASDAQ
+PE,Petr Inc,Energy,NYSE
+RINVX.L,Rinv Capital,Real Estate,LSE
+WIREX.L,Wire Solutions,Telecom,LSE
+NAN,Nano Solutions,Technology,NASDAQ
+DVL,Dvlp Group,Real Estate,NYSE
+RAI,Rail Holdings,Industrials,NASDAQ
+SGNL,Sgnl Partners,Telecom,NYSE
+CTRQ.L,Ctr Inc,Real Estate,LSE
+SHO,Shop Capital,Consumer,NYSE
+BIOH.L,Bio Solutions,Healthcare,LSE
+MACHB.L,Mach Systems,Industrials,LSE
+THERO.L,Ther Global,Healthcare,LSE
+TECHI.L,Tech Group,Technology,LSE
+CEL,Cell Inc,Healthcare,NASDAQ
+RET,Retl Global,Consumer,NYSE
+MICR,Micro Holdings,Technology,NASDAQ
+SLV,Slvr Ltd,Materials,NYSE
+TW,Twr Solutions,Real Estate,NASDAQ
+SYSI,Sys Partners,Technology,NASDAQ
+INVV,Inv Global,Financials,NYSE
+ENG,Eng Ltd,Industrials,NYSE
+PIPEU.L,Pipe Ltd,Utilities,LSE
+NU,Nuro Group,Healthcare,NYSE
+LOGIB.L,Logic Partners,Technology,LSE
+DIS,Dist Corp,Consumer,NASDAQ
+GR,Grid Partners,Energy,NYSE
+ENVK.L,Env Ltd,Utilities,LSE
+WST,Wste Inc,Utilities,NASDAQ
+ALU,Alum Partners,Materials,NYSE
+BET,Beta Global,Financials,NYSE
+MACH,Mach Corp,Industrials,NASDAQ
+GENET.L,Gene Solutions,Healthcare,LSE
+CLOU,Cloud Partners,Technology,NYSE
+MATT.L,Mat Ltd,Materials,LSE
+WSTEO.L,Wste Inc,Utilities,LSE
+WAV,Wave Holdings,Telecom,NYSE
+ENRGX.L,Enrg Ltd,Energy,LSE
+SV,Svc Holdings,Utilities,NASDAQ
+IFRA,Ifra Solutions,Utilities,NYSE
+UGRDV.L,Ugrd Partners,Utilities,LSE
+AEROR.L,Aero Holdings,Industrials,LSE
+VALW.L,Val Ltd,Consumer,LSE
+MFGG,Mfg Group,Industrials,NASDAQ
+FIBRP.L,Fibr Capital,Materials,LSE
+RARES.L,Rare Inc,Materials,LSE
+CHEMC.L,Chem Solutions,Healthcare,LSE
+ESTY,Est Systems,Real Estate,NASDAQ
+RLTYD.L,Rlty Capital,Real Estate,LSE
+GENE,Gene Group,Healthcare,NYSE
+AEROJ.L,Aero Inc,Industrials,LSE
+RETL,Retl Global,Consumer,NASDAQ
+LINK,Link Global,Telecom,NYSE
+RAILB.L,Rail Corp,Industrials,LSE
+WINDT.L,Wind Corp,Energy,LSE
+SUPPJ.L,Supp Holdings,Utilities,LSE
+WS,Wste Partners,Utilities,NASDAQ
+BILDY.L,Bild Partners,Industrials,LSE
+URB,Urbn Holdings,Real Estate,NASDAQ
+WAT,Watr Systems,Utilities,NYSE
+MOBLY.L,Mobl Ltd,Telecom,LSE
+PIPEP.L,Pipe Holdings,Utilities,LSE
+ENV,Env Group,Utilities,NYSE
+LINKV.L,Link Solutions,Telecom,LSE
+TRADM.L,Trad Partners,Consumer,LSE
+MIC,Micro Capital,Technology,NASDAQ
+AUTOV.L,Auto Global,Consumer,LSE
+BAN,Bank Partners,Financials,NYSE
+DVLPE.L,Dvlp Group,Real Estate,LSE
+MD,Mdia Ltd,Telecom,NASDAQ
+AEROO.L,Aero Ltd,Industrials,LSE
+WIREK.L,Wire Global,Telecom,LSE
+RAIL,Rail Global,Industrials,NYSE
+AER,Aero Global,Industrials,NASDAQ
+NETU,Net Global,Technology,NASDAQ
+PLCE,Plce Ltd,Real Estate,NASDAQ
+VOL,Volt Solutions,Energy,NYSE
+PRMEP.L,Prme Corp,Real Estate,LSE
+CLIN,Clin Solutions,Healthcare,NASDAQ
+ESTO,Est Partners,Real Estate,NASDAQ
+DVLP,Dvlp Holdings,Real Estate,NASDAQ
+MOB,Mobl Group,Telecom,NASDAQ
+VALG.L,Val Solutions,Consumer,LSE
+CRBNZ.L,Crbn Ltd,Materials,LSE
+MUN,Muni Capital,Utilities,NASDAQ
+VALI.L,Val Ltd,Consumer,LSE
+ALP,Alpha Capital,Financials,NASDAQ
+UG,Ugrd Capital,Utilities,NYSE
+ONC,Onco Group,Healthcare,NASDAQ
+LUXB,Lux Inc,Consumer,NYSE
+CNCT,Cnct Corp,Telecom,NYSE
+DIGIZ.L,Digit Solutions,Technology,LSE
+CARDJ.L,Card Corp,Healthcare,LSE
+THERI.L,Ther Group,Healthcare,LSE
+INVO,Inv Ltd,Financials,NYSE
+CODEJ.L,Code Global,Technology,LSE
+THERK.L,Ther Group,Healthcare,LSE
+LG,Lgst Partners,Industrials,NYSE
+PWR,Pwr Systems,Energy,NYSE
+PRMEW.L,Prme Holdings,Real Estate,LSE
+NUCE.L,Nuc Solutions,Energy,LSE
+RINVG.L,Rinv Group,Real Estate,LSE
+COMMQ.L,Comm Solutions,Telecom,LSE
+PROPS.L,Prop Inc,Real Estate,LSE
+LOGIQ.L,Logic Group,Technology,LSE
+CREDZ.L,Cred Corp,Financials,LSE
+WL,Wlth Corp,Financials,NYSE
+CREDB.L,Cred Holdings,Financials,LSE
+METL,Metl Systems,Materials,NYSE
+MACHO.L,Mach Systems,Industrials,LSE
+PO,Poly Partners,Materials,NYSE
+PRI,Prime Group,Financials,NYSE
+NETO.L,Net Capital,Technology,LSE
+RAR,Rare Partners,Materials,NASDAQ
+DIGIT.L,Digit Corp,Technology,LSE
+PW,Pwr Global,Energy,NYSE
+RI,Rinv Capital,Real Estate,NYSE
+DIR,Dir Global,Consumer,NYSE
+FIBRK.L,Fibr Group,Telecom,LSE
+LUXQ.L,Lux Group,Consumer,LSE
+MATR,Mat Ltd,Materials,NYSE
+MATL,Mat Systems,Materials,NASDAQ
+MINK,Min Solutions,Materials,NYSE
+HYDRX.L,Hydr Capital,Energy,LSE
+CL,Cloud Solutions,Technology,NYSE
+AMP,Amp Capital,Energy,NASDAQ
+ENGQ,Eng Solutions,Industrials,NYSE
+INVP.L,Inv Partners,Financials,LSE
+ENRGI.L,Enrg Capital,Energy,LSE
+HEVY,Hevy Solutions,Industrials,NYSE
+DEVC,Dev Corp,Technology,NASDAQ
+DEV,Dev Ltd,Technology,NASDAQ
+LINKP.L,Link Corp,Telecom,LSE
+ALOYF.L,Aloy Inc,Materials,LSE
+STYLZ.L,Styl Systems,Consumer,LSE
+IN,Infra Systems,Technology,NASDAQ
+SVCC,Svc Holdings,Utilities,NYSE
+GOLDF.L,Gold Global,Materials,LSE
+SOLRT.L,Solr Global,Energy,LSE
+DRNKP.L,Drnk Group,Consumer,LSE
+PWRI.L,Pwr Ltd,Energy,LSE
+POLYE.L,Poly Systems,Materials,LSE
+MFGA,Mfg Solutions,Industrials,NASDAQ
+MFGE.L,Mfg Inc,Industrials,LSE
+FIBRM.L,Fibr Corp,Telecom,LSE
+REITS.L,Reit Capital,Real Estate,LSE
+NUCT.L,Nuc Global,Energy,LSE
+DIA,Diag Partners,Healthcare,NYSE
+LIFEJ.L,Life Solutions,Healthcare,LSE
+WAVEM.L,Wave Holdings,Telecom,LSE
+NGASO.L,Ngas Holdings,Utilities,LSE
+GBLZ.L,Gbl Systems,Financials,LSE
+NUROM.L,Nuro Inc,Healthcare,LSE
+PIPES.L,Pipe Systems,Utilities,LSE
+SYSW.L,Sys Capital,Technology,LSE
+SLVRZ.L,Slvr Systems,Materials,LSE
+CTR,Ctr Partners,Real Estate,NASDAQ
+POLY,Poly Ltd,Materials,NASDAQ
+PARTD.L,Part Holdings,Industrials,LSE
+CHEMD.L,Chem Ltd,Materials,LSE
+CELLH.L,Cell Capital,Healthcare,LSE
+ENVA,Env Group,Utilities,NASDAQ
+TRADZ.L,Trad Inc,Consumer,LSE
+MFGI,Mfg Solutions,Industrials,NYSE
+URBNT.L,Urbn Systems,Real Estate,LSE
+PUBL,Publ Holdings,Utilities,NASDAQ
+LIN,Link Group,Telecom,NASDAQ
+MET,Metl Ltd,Materials,NASDAQ
+MUNI,Muni Ltd,Utilities,NASDAQ
+LAN,Land Solutions,Real Estate,NYSE
+GEOQ.L,Geo Solutions,Energy,LSE
+DIAGX.L,Diag Solutions,Healthcare,LSE
+PLC,Plce Capital,Real Estate,NASDAQ
+ENVD,Env Group,Utilities,NASDAQ
+BRNDO.L,Brnd Holdings,Consumer,LSE
+MFGO.L,Mfg Inc,Industrials,LSE
+WI,Wire Group,Telecom,NASDAQ
+HYDRL.L,Hydr Capital,Energy,LSE
+SHOP,Shop Holdings,Consumer,NASDAQ
+GBL,Gbl Corp,Financials,NYSE
+SHOPW.L,Shop Ltd,Consumer,LSE
+SOLR,Solr Systems,Energy,NYSE
+CIVI,Civ Systems,Utilities,NYSE
+CTRL.L,Ctr Solutions,Real Estate,LSE
+UTIL,Util Inc,Utilities,NYSE
+ENGR.L,Eng Global,Industrials,LSE
+THE,Ther Corp,Healthcare,NASDAQ
+PHRMF.L,Phrm Holdings,Healthcare,LSE
+BANKD.L,Bank Partners,Financials,LSE
+BILDM.L,Bild Ltd,Industrials,LSE
+DIAG,Diag Ltd,Healthcare,NYSE
+ENGZ.L,Eng Ltd,Industrials,LSE
+SGNLY.L,Sgnl Corp,Telecom,LSE
+AUT,Auto Systems,Consumer,NYSE
+CAPL,Cap Ltd,Financials,NASDAQ
+ALUMN.L,Alum Partners,Materials,LSE
+CODEM.L,Code Capital,Technology,LSE
+HOM,Home Systems,Consumer,NASDAQ
+PRIM,Prime Ltd,Financials,NYSE
+CELL,Cell Ltd,Healthcare,NYSE
+SUPPQ.L,Supp Holdings,Utilities,LSE
+CAPK.L,Cap Systems,Financials,LSE
+MINN,Min Partners,Materials,NYSE
+BLDGC.L,Bldg Solutions,Real Estate,LSE
+STYLK.L,Styl Inc,Consumer,LSE
+MARTO.L,Mart Partners,Consumer,LSE
+RLAYY.L,Rlay Group,Telecom,LSE
+REITE.L,Reit Corp,Real Estate,LSE
+ZINC,Zinc Corp,Materials,NYSE
+SHIP,Ship Holdings,Industrials,NYSE
+DATAW.L,Data Holdings,Technology,LSE
+DIRZ.L,Dir Systems,Consumer,LSE
+CRE,Cred Capital,Financials,NYSE
+CNSTO.L,Cnst Holdings,Industrials,LSE
+VALT.L,Val Corp,Consumer,LSE
+SOLRE.L,Solr Inc,Energy,LSE
+WINDQ.L,Wind Corp,Energy,LSE
+SU,Supp Inc,Utilities,NASDAQ
+MEDY,Med Ltd,Healthcare,NYSE
+SOLRV.L,Solr Inc,Energy,LSE
+VO,Voic Inc,Telecom,NASDAQ
+NUCZ.L,Nuc Ltd,Energy,LSE
+FRSTZ.L,Frst Partners,Financials,LSE
+TH,Ther Global,Healthcare,NYSE
+BLDGZ.L,Bldg Partners,Real Estate,LSE
+LA,Land Global,Real Estate,NYSE
+UGRD,Ugrd Ltd,Utilities,NASDAQ
+CLOUS.L,Cloud Systems,Technology,LSE
+HEVYF.L,Hevy Ltd,Industrials,LSE
+AMPX,Amp Global,Energy,NASDAQ
+SYSS.L,Sys Global,Technology,LSE
+HLTH,Hlth Solutions,Healthcare,NASDAQ
+PL,Plza Group,Real Estate,NYSE
+BILD,Bild Ltd,Industrials,NYSE
+FRSTL.L,Frst Inc,Financials,LSE
+SHIPM.L,Ship Global,Industrials,LSE
+COPU.L,Cop Partners,Materials,LSE
+MOBLV.L,Mobl Global,Telecom,LSE
+CELLS.L,Cell Systems,Healthcare,LSE
+SATD,Sat Ltd,Telecom,NYSE
+CNSTL.L,Cnst Partners,Industrials,LSE
+BIOW,Bio Partners,Healthcare,NASDAQ
+MF,Mfg Systems,Industrials,NYSE
+ELECN.L,Elec Solutions,Utilities,LSE
+CAPJ.L,Cap Corp,Financials,LSE
+MFG,Mfg Systems,Industrials,NYSE
+CLINC.L,Clin Partners,Healthcare,LSE
+VOICP.L,Voic Corp,Telecom,LSE
+METLT.L,Metl Systems,Materials,LSE
+LIFE,Life Systems,Healthcare,NYSE
+CTRR.L,Ctr Holdings,Real Estate,LSE
+ESTB.L,Est Partners,Real Estate,LSE
+NETV,Net Solutions,Technology,NASDAQ
+GASF,Gas Inc,Energy,NYSE
+HEATZ.L,Heat Systems,Utilities,LSE
+CI,Civ Capital,Utilities,NASDAQ
+PIP,Pipe Holdings,Utilities,NYSE
+TELM,Tel Systems,Telecom,NYSE
+PWRM,Pwr Corp,Energy,NASDAQ
+TWR,Twr Global,Real Estate,NASDAQ
+NUROG.L,Nuro Ltd,Healthcare,LSE
+DIRA,Dir Global,Consumer,NASDAQ
+ALPHY.L,Alpha Inc,Financials,LSE
+DIRL.L,Dir Systems,Consumer,LSE
+DRNK,Drnk Corp,Consumer,NASDAQ
+ALOY,Aloy Corp,Materials,NYSE
+COD,Code Solutions,Technology,NYSE
+TRUSE.L,Trust Holdings,Financials,LSE
+WSTEI.L,Wste Systems,Utilities,LSE
+CRBNQ.L,Crbn Partners,Materials,LSE
+ENRG,Enrg Holdings,Energy,NYSE
+AEROM.L,Aero Inc,Industrials,LSE
+SOF,Soft Solutions,Technology,NYSE
+WAVE,Wave Holdings,Telecom,NASDAQ
+MOBLH.L,Mobl Group,Telecom,LSE
+MATQ,Mat Partners,Materials,NASDAQ
+WA,Wave Corp,Telecom,NASDAQ
+HEATN.L,Heat Systems,Utilities,LSE
+WAVEX.L,Wave Group,Telecom,LSE
+DISTV.L,Dist Capital,Consumer,LSE
+ESTV.L,Est Partners,Real Estate,LSE
+SLVRL.L,Slvr Holdings,Materials,LSE
+SAT,Sat Group,Telecom,NASDAQ
+RA,Rare Group,Materials,NYSE
+PETRS.L,Petr Ltd,Energy,LSE
+UGRDC.L,Ugrd Ltd,Utilities,LSE
+FORGK.L,Forg Capital,Industrials,LSE
+GO,Gold Corp,Materials,NASDAQ
+DRNKX.L,Drnk Capital,Consumer,LSE
+PARTL.L,Part Group,Industrials,LSE
+ONCOZ.L,Onco Systems,Healthcare,LSE
+INF,Infra Corp,Technology,NYSE
+NANO,Nano Global,Technology,NASDAQ
+CYB,Cyber Inc,Technology,NYSE
+ALPH,Alpha Capital,Financials,NASDAQ
+REIT,Reit Partners,Real Estate,NASDAQ
+BANKI.L,Bank Group,Financials,LSE
+HEATI.L,Heat Solutions,Utilities,LSE
+DATA,Data Partners,Technology,NYSE
+MFGD,Mfg Corp,Industrials,NASDAQ
+NANOU.L,Nano Ltd,Technology,LSE
+GOLDM.L,Gold Solutions,Materials,LSE
+CR,Crbn Corp,Materials,NASDAQ
+WIR,Wire Partners,Telecom,NASDAQ
+PLCEX.L,Plce Global,Real Estate,LSE
+FUELK.L,Fuel Capital,Energy,LSE
+CLINT.L,Clin Corp,Healthcare,LSE
+WATRY.L,Watr Solutions,Utilities,LSE
+STE,Stee Capital,Industrials,NYSE
+MIN,Min Global,Materials,NASDAQ
+UTILD.L,Util Systems,Utilities,LSE
+LINKJ.L,Link Capital,Telecom,LSE
+HEVYH.L,Hevy Solutions,Industrials,LSE
+MFGD.L,Mfg Group,Industrials,LSE
+DEVU,Dev Holdings,Technology,NYSE
+CT,Ctr Ltd,Real Estate,NASDAQ
+TR,Trust Systems,Financials,NYSE
+AMPG,Amp Inc,Energy,NASDAQ
+COPQ.L,Cop Ltd,Materials,LSE
+FI,Fibr Global,Telecom,NYSE
+MDIAM.L,Mdia Systems,Telecom,LSE
+RLAYH.L,Rlay Holdings,Telecom,LSE
+GOLDO.L,Gold Ltd,Materials,LSE
+CTRX.L,Ctr Capital,Real Estate,LSE
+BILDW.L,Bild Ltd,Industrials,LSE
+ZINCD.L,Zinc Corp,Materials,LSE
+CHEMI.L,Chem Ltd,Healthcare,LSE
+NETG,Net Corp,Technology,NASDAQ
+MFGT.L,Mfg Capital,Industrials,LSE
+GEOM.L,Geo Group,Energy,LSE
+DVLPW.L,Dvlp Holdings,Real Estate,LSE
+DIGIN.L,Digit Partners,Technology,LSE
+SVCU.L,Svc Partners,Utilities,LSE
+SATG,Sat Group,Telecom,NASDAQ
+BIOM.L,Bio Corp,Healthcare,LSE
+GOL,Gold Holdings,Materials,NYSE
+CNS,Cnst Partners,Industrials,NYSE
+TRA,Trad Capital,Consumer,NYSE
+MOBLB.L,Mobl Partners,Telecom,LSE
+CHEMM.L,Chem Holdings,Materials,LSE
+RLTYQ.L,Rlty Partners,Real Estate,LSE
+PLZAP.L,Plza Corp,Real Estate,LSE
+MARTK.L,Mart Capital,Consumer,LSE
+FINY.L,Fin Capital,Financials,LSE
+WINDD.L,Wind Group,Energy,LSE
+PRMEX.L,Prme Systems,Real Estate,LSE
+FINA.L,Fin Solutions,Financials,LSE
+CY,Cyber Global,Technology,NASDAQ
+ALPHB.L,Alpha Inc,Financials,LSE
+MFGJ.L,Mfg Holdings,Industrials,LSE
+AI,Ai Systems,Technology,NASDAQ
+INDR.L,Ind Capital,Industrials,LSE
+FORG,Forg Ltd,Industrials,NYSE
+CIVJ,Civ Ltd,Utilities,NYSE
+PARTO.L,Part Partners,Industrials,LSE
+FRSTE.L,Frst Capital,Financials,LSE
+FL,Flux Inc,Energy,NYSE
+NANOA.L,Nano Global,Technology,LSE
+THERL.L,Ther Corp,Healthcare,LSE
+GASC.L,Gas Holdings,Energy,LSE
+SYSD.L,Sys Capital,Technology,LSE
+STYLS.L,Styl Capital,Consumer,LSE
+ENGP.L,Eng Solutions,Industrials,LSE
+VOI,Voic Group,Telecom,NYSE
+FIBRD.L,Fibr Solutions,Materials,LSE
+PHR,Phrm Systems,Healthcare,NYSE
+LINKA.L,Link Holdings,Telecom,LSE
+CA,Care Global,Healthcare,NYSE
+RAILS.L,Rail Inc,Industrials,LSE
+TWRV.L,Twr Systems,Real Estate,LSE
+PRMEY.L,Prme Systems,Real Estate,LSE
+RINV,Rinv Systems,Real Estate,NASDAQ
+CRBN,Crbn Global,Materials,NASDAQ
+RAREV.L,Rare Inc,Materials,LSE
+IRONT.L,Iron Capital,Materials,LSE
+AUTOB.L,Auto Ltd,Consumer,LSE
+RLT,Rlty Capital,Real Estate,NYSE
+FUE,Fuel Corp,Energy,NASDAQ
+MI,Min Inc,Materials,NASDAQ
+INVR,Inv Partners,Financials,NASDAQ
+STEEH.L,Stee Global,Industrials,LSE
+DISTZ.L,Dist Global,Consumer,LSE
+AMPO.L,Amp Solutions,Energy,LSE
+LUXZ,Lux Group,Consumer,NYSE
+GASH,Gas Holdings,Energy,NASDAQ
+BRODF.L,Brod Capital,Telecom,LSE
+PLZAR.L,Plza Corp,Real Estate,LSE
+MUNIQ.L,Muni Solutions,Utilities,LSE
+IND,Ind Global,Industrials,NASDAQ
+DRN,Drnk Ltd,Consumer,NYSE
+ENVW,Env Partners,Utilities,NASDAQ
+CARDU.L,Card Capital,Healthcare,LSE
+DVLPP.L,Dvlp Holdings,Real Estate,LSE
+CAR,Card Inc,Healthcare,NYSE
+HEATL.L,Heat Partners,Utilities,LSE
+RARE,Rare Group,Materials,NYSE
+ENVT.L,Env Holdings,Utilities,LSE
+WLT,Wlth Holdings,Financials,NYSE
+FOOD,Food Partners,Consumer,NASDAQ
+CLO,Cloud Inc,Technology,NYSE
+AL,Alpha Systems,Financials,NYSE
+SUPPI.L,Supp Capital,Utilities,LSE
+IRONM.L,Iron Group,Materials,LSE
+PRMET.L,Prme Holdings,Real Estate,LSE
+PETRE.L,Petr Holdings,Energy,LSE
+NGASC.L,Ngas Ltd,Utilities,LSE
+PIPEW.L,Pipe Corp,Utilities,LSE
+DISTA.L,Dist Inc,Consumer,LSE
+NUCH,Nuc Corp,Energy,NASDAQ
+MEDX,Med Capital,Healthcare,NASDAQ
+CLOUD.L,Cloud Group,Technology,LSE
+BRODW.L,Brod Global,Telecom,LSE
+PARTX.L,Part Group,Industrials,LSE
+SY,Sys Corp,Technology,NASDAQ
+MDIAF.L,Mdia Inc,Telecom,LSE
+DIAGL.L,Diag Global,Healthcare,LSE
+BE,Beta Ltd,Financials,NYSE
+HLTHD.L,Hlth Solutions,Healthcare,LSE
+HYDR,Hydr Solutions,Energy,NYSE
+PWRA,Pwr Group,Energy,NASDAQ
+PUBLC.L,Publ Solutions,Utilities,LSE
+NETQ.L,Net Corp,Technology,LSE
+BANKG.L,Bank Capital,Financials,LSE
+GASS,Gas Ltd,Energy,NASDAQ
+BLDGX.L,Bldg Inc,Real Estate,LSE
+BROD,Brod Inc,Telecom,NASDAQ
+CLINM.L,Clin Capital,Healthcare,LSE
+AEROK.L,Aero Partners,Industrials,LSE
+IRONX.L,Iron Partners,Materials,LSE
+LANDL.L,Land Solutions,Real Estate,LSE
+UTILX.L,Util Corp,Utilities,LSE
+INFRI.L,Infra Capital,Technology,LSE
+VOIC,Voic Partners,Telecom,NASDAQ
+TRUSX.L,Trust Global,Financials,LSE
+ESTB,Est Systems,Real Estate,NASDAQ
+IFRAQ.L,Ifra Inc,Utilities,LSE
+IRO,Iron Ltd,Materials,NYSE
+ENGT,Eng Holdings,Industrials,NYSE
+DIAGZ.L,Diag Solutions,Healthcare,LSE
+VA,Val Solutions,Consumer,NYSE
+WIREW.L,Wire Corp,Telecom,LSE
+LU,Lux Holdings,Consumer,NYSE
+INDJ.L,Ind Systems,Industrials,LSE
+GEOW.L,Geo Inc,Energy,LSE
+NUCR,Nuc Corp,Energy,NASDAQ
+AIJ,Ai Systems,Technology,NYSE
+DIRA.L,Dir Capital,Consumer,LSE
+PRIMV.L,Prime Global,Financials,LSE
+WEARO.L,Wear Capital,Consumer,LSE
+OILW.L,Oil Capital,Energy,LSE
+NUROK.L,Nuro Systems,Healthcare,LSE
+MICRT.L,Micro Holdings,Technology,LSE
+PLZAW.L,Plza Partners,Real Estate,LSE
+THERP.L,Ther Ltd,Healthcare,LSE
+MEDN,Med Corp,Healthcare,NYSE
+MARTX.L,Mart Group,Consumer,LSE
+FLUX,Flux Solutions,Energy,NYSE
+FORGH.L,Forg Systems,Industrials,LSE
+ALUMX.L,Alum Systems,Materials,LSE
+FRST,Frst Group,Financials,NASDAQ
+RLTYG.L,Rlty Holdings,Real Estate,LSE
+PLZAU.L,Plza Solutions,Real Estate,LSE
+BANKF.L,Bank Global,Financials,LSE
+BIOC.L,Bio Inc,Healthcare,LSE
+LOGIK.L,Logic Global,Technology,LSE
+NETX,Net Solutions,Technology,NASDAQ
+NET,Net Solutions,Technology,NASDAQ
+PLCEP.L,Plce Group,Real Estate,LSE
+CAPH,Cap Holdings,Financials,NASDAQ
+CRBNN.L,Crbn Capital,Materials,LSE
+FIND,Fin Holdings,Financials,NYSE
+SATX,Sat Capital,Telecom,NYSE
+INVT,Inv Holdings,Financials,NASDAQ
+HLTHW.L,Hlth Holdings,Healthcare,LSE
+TRUSZ.L,Trust Global,Financials,LSE
+PARTP.L,Part Corp,Industrials,LSE
+PLZAZ.L,Plza Systems,Real Estate,LSE
+NETS.L,Net Partners,Technology,LSE
+SHIPR.L,Ship Ltd,Industrials,LSE
+WEARW.L,Wear Corp,Consumer,LSE
+LOGIC.L,Logic Solutions,Technology,LSE
+LGSTQ.L,Lgst Holdings,Industrials,LSE
+ESTG,Est Solutions,Real Estate,NASDAQ
+TECH,Tech Inc,Technology,NYSE
+SHIPD.L,Ship Holdings,Industrials,LSE
+BIOA,Bio Capital,Healthcare,NYSE
+OILT,Oil Capital,Energy,NYSE
+ONCOS.L,Onco Solutions,Healthcare,LSE
+HYDRN.L,Hydr Systems,Energy,LSE
+MDIAW.L,Mdia Group,Telecom,LSE
+BIOX,Bio Global,Healthcare,NASDAQ
+IFR,Ifra Inc,Utilities,NYSE
+TNETK.L,Tnet Solutions,Telecom,LSE
+DEVE,Dev Corp,Technology,NYSE
+ALOYL.L,Aloy Inc,Materials,LSE
+MDIA,Mdia Holdings,Telecom,NYSE
+URBND.L,Urbn Holdings,Real Estate,LSE
+MACHM.L,Mach Systems,Industrials,LSE
+ES,Est Capital,Real Estate,NYSE
+SLVRN.L,Slvr Ltd,Materials,LSE
+LUXE.L,Lux Ltd,Consumer,LSE
+EL,Elec Systems,Utilities,NASDAQ
+MUNIT.L,Muni Systems,Utilities,LSE
+MICRP.L,Micro Partners,Technology,LSE
+DVLPY.L,Dvlp Holdings,Real Estate,LSE
+LANDT.L,Land Corp,Real Estate,LSE
+AUTOI.L,Auto Corp,Consumer,LSE
+AUTOA.L,Auto Holdings,Consumer,LSE
+SUPP,Supp Holdings,Utilities,NYSE
+MICRF.L,Micro Global,Technology,LSE
+AMPQ,Amp Partners,Energy,NASDAQ
+ALPHE.L,Alpha Solutions,Financials,LSE
+MINV.L,Min Solutions,Materials,LSE
+RETLB.L,Retl Ltd,Consumer,LSE
+AIU,Ai Systems,Technology,NYSE
+FIBRI.L,Fibr Partners,Telecom,LSE
+MDIAK.L,Mdia Ltd,Telecom,LSE
+AID,Ai Partners,Technology,NASDAQ
+OILG.L,Oil Corp,Energy,LSE
+FUELD.L,Fuel Inc,Energy,LSE
+FINM.L,Fin Global,Financials,LSE
+CELLF.L,Cell Holdings,Healthcare,LSE
+DIRC,Dir Holdings,Consumer,NASDAQ
+MATI,Mat Holdings,Materials,NASDAQ
+BRNDP.L,Brnd Ltd,Consumer,LSE
+NANOM.L,Nano Holdings,Technology,LSE
+ONCOM.L,Onco Global,Healthcare,LSE
+CAPM,Cap Solutions,Financials,NASDAQ
+URBNC.L,Urbn Solutions,Real Estate,LSE
+ELECB.L,Elec Group,Utilities,LSE
+MICRH.L,Micro Solutions,Technology,LSE
+DVLPO.L,Dvlp Corp,Real Estate,LSE
+SYSZ,Sys Systems,Technology,NYSE
+SOFTU.L,Soft Corp,Technology,LSE
+IFRAB.L,Ifra Group,Utilities,LSE
+FUNDK.L,Fund Systems,Financials,LSE
+TRNSG.L,Trns Corp,Industrials,LSE
+ENRGE.L,Enrg Inc,Energy,LSE
+FINC,Fin Global,Financials,NYSE
+BANKT.L,Bank Partners,Financials,LSE
+PLZA,Plza Group,Real Estate,NASDAQ
+METRR.L,Metr Ltd,Financials,LSE
+THERQ.L,Ther Inc,Healthcare,LSE
+INVO.L,Inv Global,Financials,LSE
+GRIDG.L,Grid Systems,Energy,LSE
+HY,Hydr Systems,Energy,NYSE
+HLTHJ.L,Hlth Global,Healthcare,LSE
+CHEMT.L,Chem Ltd,Healthcare,LSE
+FIBRH.L,Fibr Inc,Telecom,LSE
+COPG.L,Cop Global,Materials,LSE
+HEATA.L,Heat Systems,Utilities,LSE
+VOICS.L,Voic Corp,Telecom,LSE
+MATP.L,Mat Capital,Materials,LSE
+DIGI,Digit Inc,Technology,NASDAQ
+METLL.L,Metl Holdings,Materials,LSE
+SOFTY.L,Soft Ltd,Technology,LSE
+CYBEM.L,Cyber Partners,Technology,LSE
+SYSO,Sys Partners,Technology,NYSE
+AE,Aero Group,Industrials,NYSE
+HLTHR.L,Hlth Inc,Healthcare,LSE
+AMPH.L,Amp Partners,Energy,LSE
+AEROV.L,Aero Systems,Industrials,LSE
+WEA,Wear Capital,Consumer,NYSE
+LGSTZ.L,Lgst Inc,Industrials,LSE
+NUCC.L,Nuc Inc,Energy,LSE
+GOLDC.L,Gold Inc,Materials,LSE
+PLZAL.L,Plza Systems,Real Estate,LSE
+UTILJ.L,Util Group,Utilities,LSE
+GBLH,Gbl Capital,Financials,NYSE
+ENGU,Eng Partners,Industrials,NASDAQ
+BRNDE.L,Brnd Partners,Consumer,LSE
+ESTW,Est Ltd,Real Estate,NYSE
+TWRJ.L,Twr Inc,Real Estate,LSE
+ELECA.L,Elec Capital,Utilities,LSE
+TRADS.L,Trad Ltd,Consumer,LSE
+VOICO.L,Voic Partners,Telecom,LSE
+METRB.L,Metr Ltd,Financials,LSE
+GASZ,Gas Holdings,Energy,NASDAQ
+GEOO,Geo Inc,Energy,NYSE
+PRMEV.L,Prme Partners,Real Estate,LSE
+WATRG.L,Watr Solutions,Utilities,LSE
+IRONE.L,Iron Global,Materials,LSE
+CIVH.L,Civ Corp,Utilities,LSE
+CREDC.L,Cred Global,Financials,LSE
+PUBLD.L,Publ Partners,Utilities,LSE
+RLTYI.L,Rlty Ltd,Real Estate,LSE
+STEE,Stee Inc,Industrials,NYSE
+SHIPZ.L,Ship Holdings,Industrials,LSE
+GEOT.L,Geo Capital,Energy,LSE
+CTRY.L,Ctr Inc,Real Estate,LSE
+FR,Frst Group,Financials,NYSE
+GBLP,Gbl Corp,Financials,NYSE
+LO,Logic Holdings,Technology,NASDAQ
+CODED.L,Code Global,Technology,LSE
+DEVX,Dev Global,Technology,NYSE
+SA,Sat Global,Telecom,NYSE
+METRQ.L,Metr Solutions,Financials,LSE
+AEROX.L,Aero Corp,Industrials,LSE
+LINKO.L,Link Group,Telecom,LSE
+GBLP.L,Gbl Partners,Financials,LSE
+CRED,Cred Ltd,Financials,NYSE
+LOGID.L,Logic Systems,Technology,LSE
+IFRAV.L,Ifra Solutions,Utilities,LSE
+PARKK.L,Park Ltd,Real Estate,LSE
+PWRW,Pwr Inc,Energy,NASDAQ
+HOMEZ.L,Home Global,Consumer,LSE
+FIBRU.L,Fibr Corp,Materials,LSE
+FOODK.L,Food Inc,Consumer,LSE
+OILJ.L,Oil Ltd,Energy,LSE
+ENVN,Env Corp,Utilities,NASDAQ
+UTILC.L,Util Partners,Utilities,LSE
+GASE.L,Gas Inc,Energy,LSE
+DIRE.L,Dir Partners,Consumer,LSE
+PUBLJ.L,Publ Corp,Utilities,LSE
+ALOYI.L,Aloy Holdings,Materials,LSE
+GBLH.L,Gbl Holdings,Financials,LSE
+PETRO.L,Petr Partners,Energy,LSE
+ENVK,Env Inc,Utilities,NASDAQ
+MDIAX.L,Mdia Partners,Telecom,LSE
+CHEMN.L,Chem Partners,Healthcare,LSE
+RLAYJ.L,Rlay Group,Telecom,LSE
+FINM,Fin Global,Financials,NASDAQ
+NUCG.L,Nuc Holdings,Energy,LSE
+PIPED.L,Pipe Group,Utilities,LSE
+ENVG,Env Holdings,Utilities,NASDAQ
+MARTT.L,Mart Solutions,Consumer,LSE
+DEVK,Dev Systems,Technology,NASDAQ
+VOLTN.L,Volt Global,Energy,LSE
+RLAYB.L,Rlay Corp,Telecom,LSE
+FO,Forg Ltd,Industrials,NYSE
+DIRN.L,Dir Holdings,Consumer,LSE
+SLVRX.L,Slvr Solutions,Materials,LSE
+METRP.L,Metr Corp,Financials,LSE
+MU,Muni Inc,Utilities,NYSE
+PETRF.L,Petr Capital,Energy,LSE
+INV,Inv Holdings,Financials,NASDAQ
+BR,Brnd Global,Consumer,NYSE
+AUTOE.L,Auto Partners,Consumer,LSE
+CLINU.L,Clin Capital,Healthcare,LSE
+PRIMD.L,Prime Capital,Financials,LSE
+COPV,Cop Holdings,Materials,NASDAQ
+CREDF.L,Cred Ltd,Financials,LSE
+RETLN.L,Retl Capital,Consumer,LSE
+ENVV,Env Global,Utilities,NASDAQ
+CHEME.L,Chem Ltd,Materials,LSE
+DEVA,Dev Group,Technology,NYSE
+RAREZ.L,Rare Capital,Materials,LSE
+PIPEA.L,Pipe Solutions,Utilities,LSE
+MATD,Mat Systems,Materials,NYSE
+FIBRS.L,Fibr Global,Materials,LSE
+RLTYP.L,Rlty Systems,Real Estate,LSE
+UT,Util Global,Utilities,NYSE
+HEVYW.L,Hevy Solutions,Industrials,LSE
+CELLW.L,Cell Systems,Healthcare,LSE
+POLYU.L,Poly Partners,Materials,LSE
+PUBLF.L,Publ Global,Utilities,LSE
+COPJ.L,Cop Group,Materials,LSE
+LAND,Land Corp,Real Estate,NYSE
+PUBLY.L,Publ Inc,Utilities,LSE
+CAPQ.L,Cap Inc,Financials,LSE
+CELLO.L,Cell Capital,Healthcare,LSE
+WATRE.L,Watr Partners,Utilities,LSE
+MFGG.L,Mfg Solutions,Industrials,LSE
+MATH.L,Mat Solutions,Materials,LSE
+BIL,Bild Systems,Industrials,NYSE
+CNST,Cnst Capital,Industrials,NASDAQ
+METLZ.L,Metl Systems,Materials,LSE
+ALOYO.L,Aloy Capital,Materials,LSE
+PARTE.L,Part Corp,Industrials,LSE
+PROPK.L,Prop Partners,Real Estate,LSE
+METLN.L,Metl Corp,Materials,LSE
+MEDU.L,Med Capital,Healthcare,LSE
+DIRV,Dir Holdings,Consumer,NASDAQ
+INDI.L,Ind Capital,Industrials,LSE
+CNCTM.L,Cnct Solutions,Telecom,LSE
+HYDRZ.L,Hydr Global,Energy,LSE
+SVCZ,Svc Systems,Utilities,NASDAQ
+PWRB.L,Pwr Capital,Energy,LSE
+LANDG.L,Land Inc,Real Estate,LSE
+TWRK,Twr Ltd,Real Estate,NASDAQ
+OILX.L,Oil Systems,Energy,LSE
+TRNSX.L,Trns Global,Industrials,LSE
+REITL.L,Reit Holdings,Real Estate,LSE
+CLINX.L,Clin Group,Healthcare,LSE
+MATN,Mat Solutions,Materials,NYSE
+SOL,Solr Global,Energy,NASDAQ
+METLQ.L,Metl Ltd,Materials,LSE
+ELECW.L,Elec Capital,Utilities,LSE
+LIFED.L,Life Global,Healthcare,LSE
+PUBLT.L,Publ Ltd,Utilities,LSE
+MATV,Mat Holdings,Materials,NYSE
+INVA.L,Inv Global,Financials,LSE
+GEOS.L,Geo Corp,Energy,LSE
+LOG,Logic Corp,Technology,NYSE
+MARTW.L,Mart Global,Consumer,LSE
+MATT,Mat Ltd,Materials,NASDAQ
+NETM.L,Net Inc,Technology,LSE
+ZINCO.L,Zinc Corp,Materials,LSE
+DEVT.L,Dev Holdings,Technology,LSE
+FOODL.L,Food Group,Consumer,LSE
+DIAGC.L,Diag Holdings,Healthcare,LSE
+URBNV.L,Urbn Partners,Real Estate,LSE
+AMPI.L,Amp Partners,Energy,LSE
+LUXA,Lux Capital,Consumer,NYSE
+FLU,Flux Partners,Energy,NYSE
+SYSC,Sys Corp,Technology,NASDAQ
+WINDC.L,Wind Group,Energy,LSE
+OILC,Oil Inc,Energy,NYSE
+CNSTD.L,Cnst Solutions,Industrials,LSE
+GRIDB.L,Grid Partners,Energy,LSE
+PROPY.L,Prop Global,Real Estate,LSE
+CAP,Cap Inc,Financials,NYSE
+MOBLT.L,Mobl Global,Telecom,LSE
+PETRU.L,Petr Capital,Energy,LSE
+MINU,Min Inc,Materials,NYSE
+SVCB.L,Svc Solutions,Utilities,LSE
+FUELH.L,Fuel Group,Energy,LSE
+MACHG.L,Mach Systems,Industrials,LSE
+MEDL.L,Med Corp,Healthcare,LSE
+WEARR.L,Wear Group,Consumer,LSE
+DATAM.L,Data Inc,Technology,LSE
+STEEO.L,Stee Group,Industrials,LSE
+SHIPF.L,Ship Capital,Industrials,LSE
+VOICW.L,Voic Inc,Telecom,LSE
+MINB.L,Min Global,Materials,LSE
+DIAGP.L,Diag Group,Healthcare,LSE
+GBLV.L,Gbl Global,Financials,LSE
+ENVU,Env Global,Utilities,NYSE
+OILN,Oil Global,Energy,NASDAQ
+LIFEI.L,Life Capital,Healthcare,LSE
+PWRL,Pwr Holdings,Energy,NYSE
+RLTYY.L,Rlty Holdings,Real Estate,LSE
+CRBNU.L,Crbn Corp,Materials,LSE
+FIBRN.L,Fibr Group,Materials,LSE
+SGNLX.L,Sgnl Corp,Telecom,LSE
+PUBLL.L,Publ Partners,Utilities,LSE
+DATAK.L,Data Global,Technology,LSE
+SATM.L,Sat Systems,Telecom,LSE
+PWRR.L,Pwr Systems,Energy,LSE
+ENVG.L,Env Ltd,Utilities,LSE
+BRODO.L,Brod Global,Telecom,LSE
+NETU.L,Net Solutions,Technology,LSE
+CIVF,Civ Inc,Utilities,NASDAQ
+MATH,Mat Ltd,Materials,NASDAQ
+HOMEJ.L,Home Inc,Consumer,LSE
+WINDY.L,Wind Capital,Energy,LSE
+BANKY.L,Bank Inc,Financials,LSE
+URBNN.L,Urbn Solutions,Real Estate,LSE
+HEVYG.L,Hevy Systems,Industrials,LSE
+DA,Data Systems,Technology,NASDAQ
