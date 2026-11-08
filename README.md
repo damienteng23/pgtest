@@ -122,22 +122,15 @@ dotnet restore
 dotnet run --launch-profile http
 ```
 
+### 5. Generate as many rows as you want
+
 Interactive API documentation is available at:
 
 ```text
 http://localhost:5006/scalar/v1
 ```
 
-### 5. Generate 4 million rows
-
-Open a second PowerShell terminal in the project directory:
-
-```powershell
-Invoke-WebRequest `
-  -Method Post `
-  -Uri 'http://localhost:5006/test/createcsv?countOfRows=1000000&countOfFiles=4'
-```
-
+Call the API to generate CSV first...
 `countOfRows` means rows **per file**:
 
 ```text
@@ -152,28 +145,14 @@ csv_data/all_tick_data_merged.csv.zst
 
 ### 6. Load the file into PostgreSQL
 
-```powershell
-$file = (Resolve-Path '.\csv_data\all_tick_data_merged.csv.zst').Path
-$encodedFile = [Uri]::EscapeDataString($file)
-
-Invoke-WebRequest `
-  -Method Post `
-  -Uri "http://localhost:5006/test/insertCsvToPg?pathOfzstdFile=$encodedFile"
-```
-
-Keep the API terminal visible. It reports live production rate, consumption rate, committed rows and total elapsed time.
+Call the API to write the compressed file into PostgreSQL...
+Keep the powershell terminal visible. It reports live production rate, consumption rate, committed rows and total elapsed time.
 
 ### 7. Confirm the result
 
 ```sql
 SELECT count(*) AS loaded_rows
 FROM external.tick_data;
-```
-
-For the example above, the expected result is:
-
-```text
-4,000,000
 ```
 
 ## Two API calls
