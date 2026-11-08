@@ -192,3 +192,19 @@ Use only a disposable PostgreSQL schema. The import appends rows and temporarily
 - Serilog performance logging
 
 Logs are written to the console and to `logs/app-YYYYMMDD.log`.
+
+
+## Helper SQL
+
+```sql
+select * from external.tick_data limit 100;
+select COUNT(id) from external.tick_data;
+
+select * from external.tick_data where symbol = 'PIPE';
+
+SELECT indexname, indexdef 
+FROM pg_indexes 
+WHERE schemaname = 'external' AND tablename = 'tick_data';
+
+-- TRUNCATE TABLE EXTERNAL.TICK_DATA RESTART IDENTITY;
+```
