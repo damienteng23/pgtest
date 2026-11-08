@@ -122,12 +122,6 @@ dotnet restore
 dotnet run --launch-profile http
 ```
 
-The API starts at:
-
-```text
-http://localhost:5006
-```
-
 Interactive API documentation is available at:
 
 ```text
